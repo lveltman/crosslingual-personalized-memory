@@ -1,0 +1,4 @@
+torch>=2.1
+transformers>=4.42
+peft>=0.11
+tokenizers>=0.19

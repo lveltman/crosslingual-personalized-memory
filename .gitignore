@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# thesis agent pipeline artifacts
+run*.log
+.venv/
+data/
+results/
+
+hf-cache/
+docs/
+data_prep/sql/
+codegen/

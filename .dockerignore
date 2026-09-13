@@ -1,0 +1,16 @@
+.git
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+outputs
+outputs_ru
+run*.log
+run_apply.log
+agent_pipeline.py
+run_implementer.py
+run_code_loop.py
+apply_review.py
+review_code.py
+split_code.py
+THESIS.md
